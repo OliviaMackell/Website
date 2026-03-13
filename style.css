@@ -1,0 +1,9 @@
+img {
+    width: 450px;
+}
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(146, 182, 236);
+    color: rgb(245, 253, 255);
+}
